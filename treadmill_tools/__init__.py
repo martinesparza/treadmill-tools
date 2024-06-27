@@ -1,1 +1,1 @@
-TEST_VARIABLE = 1
+from .utils import paths
