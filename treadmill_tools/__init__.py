@@ -1,1 +1,1 @@
-from .utils import paths
+from .utils import config
